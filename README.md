@@ -1,5 +1,5 @@
 # CSS-flamingo
-CSS Flamingo for Birds week's challenge of CodePen. </br>
+CSS Flamingo for Birds week's challenge on CodePen.<br>
 
 
 
